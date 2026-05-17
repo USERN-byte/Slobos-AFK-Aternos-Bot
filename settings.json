@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "GetBannedEasily.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 50,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "ABC to adopt me!",
+        "Cale ni server gasua",
+        "I like gooning"
       ]
     },
     "chat-log": true,
